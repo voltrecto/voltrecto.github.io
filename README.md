@@ -8,7 +8,6 @@
 * Analysis of data obtained through Steam Web API
 * Data cleaning and normalization
 * Exploratory data analysis
-</ul>
 <br/>[View Here](https://github.com/voltrecto/steam-game-data/blob/main/Steam%20Game%20Data%20Analysis.md)
 <br/>
 <br/>
@@ -21,6 +20,5 @@
 * Data cleaning
 * Schedule data processing
 * Calculations on datetime values using functions
-</ul>
 <br/>[View Here](https://github.com/voltrecto/attendance-data/blob/main/Attendance_Data.ipynb)
 </p>
