@@ -3,7 +3,7 @@
 ## Steam Game Data Analysis
 *SQL Server*
 <img src="/assets/img/sqlserver.png" width="16" height="16">
-* Analysis of data obtained through Steam Web * API
+* Analysis of data obtained through Steam Web API
 * Data cleaning and normalization
 * Exploratory data analysis
 <br />
