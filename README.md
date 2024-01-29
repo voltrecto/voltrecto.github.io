@@ -1,5 +1,3 @@
-# Header
-
 ## Test Header
 
 ### Test
